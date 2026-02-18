@@ -310,7 +310,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👤 Author
 
-**Dank Bhardwaj**
+**BHASKAR SHARMA**
 
 - GitHub: [@dankbhardwaj](https://github.com/dankbhardwaj)
 
@@ -323,3 +323,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 *Built with ❤️ using LangChain + AWS Lambda*
 
 </div>
+
